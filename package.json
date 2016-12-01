@@ -1,0 +1,10 @@
+{
+  "name": "my_first_node_app",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Dhaval V",
+  "license": "ISC"
+}
